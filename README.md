@@ -1,2 +1,2 @@
 # mysite
-Liblary application
+Library application
