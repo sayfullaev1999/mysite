@@ -1,2 +1,2 @@
 # mysite
-Library application
+Library application using Django,GraphQL
